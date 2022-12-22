@@ -1,0 +1,23 @@
+:root {
+  --color-background:#15151E;
+  --color-background-nav:#12121A;
+  --color-background-meu:#ffffff;
+  --color-background-time: #F5760F;
+}
+
+h1{
+  font-family: impact;
+}
+
+html,
+body{
+  background-color :var(--color-background);
+}
+
+a{
+  text-decoration: none;
+}
+
+.container{
+  width: 90%;
+}
